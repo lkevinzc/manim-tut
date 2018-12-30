@@ -1,2 +1,3 @@
 *.pyc
 media
+/media_dir.txt
